@@ -14,7 +14,7 @@
 		"type": "Pantheon",
 		"uniques": [
 			"[+1 Faith] from [Tundra] tiles without [Jungle] [in this city]",
-			"[+1 Faith] from [Permafrost] tiles without [Jungle] [in this city]"
+			"[+1 Faith] from [Permafrost] tiles without [Jungle] [in this city]"]
 	},
 	{
 		"name": "Pray for Water",
@@ -28,9 +28,8 @@
 		"name": "Faith Healers",
 		"type": "Pantheon",
 		"uniques": [
-			// This should be worded better
 			"[All] Units adjacent to this city heal [+30] HP per turn when healing",
-			"[+1 Faith] from every [Hospital]"
+			"[+1 Food] from every [Hospital]"
 		]
 	},
 	{
@@ -97,7 +96,7 @@
 		"name": "Lord of the Hunt",
 		"type": "Pantheon",
 		"uniques": [
-			"[+1 Food] from every [Camp]",
+			"[+1 Food] from every [Camp]"
 		]
 	},
 	{
