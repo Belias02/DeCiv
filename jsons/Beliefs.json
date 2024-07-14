@@ -266,7 +266,7 @@
 	{
 		"name": "Life's elixir",
 		"type": "Follower",
-		"uniques": ["[+1]% [Water] from every follower, up to [10]%"]
+		"uniques": ["[+1]% [Gold] from every follower, up to [10]%"]
 	},
     {
         "name": "Public Prayer",
