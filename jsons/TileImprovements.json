@@ -202,12 +202,10 @@
 		"turnsToBuild": 15,
 		"techRequired": "Computers",
 		"production": 1,
-		"food": 2,
+		"food": 1,
 		"uniques": [
-			"Food source",
 			"Does not need removal of [Forest]",
 			"Does not need removal of [Jungle]",
-			"[+1 Science] <after discovering [Artificial Intelligence]>",
 			"Cannot be built on [Water] tiles",
 			"Pillaging this improvement yields approximately [+10 Gold]"
 		],
@@ -246,7 +244,6 @@
 		],
 		"shortcutKey": "B"
 	},
-
 	// Resource-specific
 	{
 		"name": "Research site",
@@ -352,7 +349,6 @@
 		],
 		"shortcutKey": "C"
 	},
-
 	// Military improvement
 	{
 		"name": "Trench",
@@ -391,7 +387,6 @@
 		],
 		"shortcutKey": "O"
 	},
-
 	// civ unique
 	{
 		"name": "Drum site",
@@ -667,7 +662,6 @@
 			"Will not be replaced by automated units"
 		]
 	},
-
 	// Refineries
 	{
 		"name": "C1F3 Refinery",
@@ -729,7 +723,6 @@
 			"Pillaging this improvement yields approximately [+10 Gold]"
 		]
     },
-
 	//General
 	{
 		"name": "City center",
